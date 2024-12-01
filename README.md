@@ -1,4 +1,4 @@
-# Django-Reset-Framework
+# Django-Rest-Framework
 Working with APIs
 
 This is a Django project to create the beginnings of a URL shortener service.
